@@ -6,7 +6,7 @@ import org.json.JSONObject;
 /**
  * An interface to let us know that we will always be able to fetch JSON.
  * 
- * @author Michael D. Stemle, Jr. (Michael D. Stemle, Jr. (manchicken -AT- notsosoft.net)
+ * @author Michael D. Stemle, Jr. (manchicken -AT- notsosoft.net)
  */
 public interface JSONable {	
 	/**
